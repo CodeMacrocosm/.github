@@ -65,6 +65,10 @@
   <img src="https://contrib.rocks/image?repo=codeMacrocosm/Pull-a-Thon-21" />
 </a>
 
+<a href="https://github.com/codeMacrocosm/Dev-a-Thon-21/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Dev-a-Thon-21" />
+</a>
+
 </div>
 
 
