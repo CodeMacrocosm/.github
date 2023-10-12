@@ -42,20 +42,22 @@
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
-<div align="left">
 
 
-<a href="https://github.com/codeMacrocosm/Write-a-Thon-20/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Write-a-Thon-20" />
-</a>
 
-<a href="https://github.com/codeMacrocosm/Start-a-Thon-20/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Start-a-Thon-20" />
-</a>
+<div align="center">
 
-<a href="https://github.com/codeMacrocosm/Design-a-Thon-20/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Design-a-Thon-20" />
-</a>
+  <a href="https://github.com/codeMacrocosm/Write-a-Thon-20/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=codeMacrocosm/Write-a-Thon-20" />
+  </a>
+
+  <a href="https://github.com/codeMacrocosm/Start-a-Thon-20/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=codeMacrocosm/Start-a-Thon-20" />
+  </a>
+
+  <a href="https://github.com/codeMacrocosm/Design-a-Thon-20/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=codeMacrocosm/Design-a-Thon-20" />
+  </a>
 
 <a href="https://github.com/codeMacrocosm/Web-a-Thon-20/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=codeMacrocosm/Web-a-Thon-20" />
