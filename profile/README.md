@@ -45,7 +45,7 @@
 
 
 
-<div align="center">
+<div align="left">
 
   <a href="https://github.com/codeMacrocosm/Write-a-Thon-20/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Write-a-Thon-20" />
