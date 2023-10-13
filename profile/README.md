@@ -45,57 +45,70 @@
 
 
 
-<div align="left">
+<div align="center">
+
+# 🏆 HALL OF FAME 🏆: 
+
+  ## Contest 1: 🥇 Write-a-Thon Winners 🥇
 
   <a href="https://github.com/codeMacrocosm/Write-a-Thon-20/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Write-a-Thon-20" />
   </a>
 
+  ## Contest 2: 🥇 Start-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Start-a-Thon-20/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Start-a-Thon-20" />
   </a>
 
+  ## Contest 3: 🥇 Design-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Design-a-Thon-20/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Design-a-Thon-20" />
   </a>
 
-<a href="https://github.com/codeMacrocosm/Web-a-Thon-20/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Web-a-Thon-20" />
-</a>
+  ## Contest 4: 🥇 Web-a-Thon Winners 🥇
+  <a href="https://github.com/codeMacrocosm/Web-a-Thon-20/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=codeMacrocosm/Web-a-Thon-20" />
+  </a>
 
-<a href="https://github.com/codeMacrocosm/Pull-a-Thon-21/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Pull-a-Thon-21" />
-</a>
+  ## Contest 5: 🥇 Pull-a-Thon Winners 🥇
+  <a href="https://github.com/codeMacrocosm/Pull-a-Thon-21/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=codeMacrocosm/Pull-a-Thon-21" />
+  </a>
 
-<a href="https://github.com/codeMacrocosm/Dev-a-Thon-21/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Dev-a-Thon-21" />
-</a>
+  ## Contest 6: 🥇 Dev-a-Thon Winners 🥇
+  <a href="https://github.com/codeMacrocosm/Dev-a-Thon-21/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=codeMacrocosm/Dev-a-Thon-21" />
+  </a>
 
-<a href="https://github.com/codeMacrocosm/Snip-a-Thon-21/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Snip-a-Thon-21" />
-</a>
+  ## Contest 7: 🥇 Snip-a-Thon Winners 🥇
+  <a href="https://github.com/codeMacrocosm/Snip-a-Thon-21/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=codeMacrocosm/Snip-a-Thon-21" />
+  </a>
 
-<a href="https://github.com/codeMacrocosm/Pattern-a-Thon-22/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Pattern-a-Thon-22" />
-</a>
+  ## Contest 8: 🥇 Pattern-a-Thon Winners 🥇
+  <a href="https://github.com/codeMacrocosm/Pattern-a-Thon-22/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=codeMacrocosm/Pattern-a-Thon-22" />
+  </a>
 
-<a href="https://github.com/codeMacrocosm/Vocab-a-Thon-22/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Vocab-a-Thon-22" />
-</a>
+  ## Contest 9: 🥇 Write-a-Thon Winners 🥇
+  <a href="https://github.com/codeMacrocosm/Vocab-a-Thon-22/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=codeMacrocosm/Vocab-a-Thon-22" />
+  </a>
 
-<a href="https://github.com/codeMacrocosm/Algo-a-Thon-22/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Algo-a-Thon-22" />
-</a>
+  ## Contest 10: 🥇 Algo-a-Thon Winners 🥇
+  <a href="https://github.com/codeMacrocosm/Algo-a-Thon-22/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=codeMacrocosm/Algo-a-Thon-22" />
+  </a>
 
-<a href="https://github.com/codeMacrocosm/Profile-a-Thon-22/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Profile-a-Thon-22" />
-</a>
+  ## Contest 11: 🥇 Profile-a-Thon Winners 🥇
+  <a href="https://github.com/codeMacrocosm/Profile-a-Thon-22/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=codeMacrocosm/Profile-a-Thon-22" />
+  </a>
 
-<a href="https://github.com/codeMacrocosm/Turtle-a-Thon-23/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Turtle-a-Thon-23" />
-</a>
-
-
+  ## Contest 12: 🥇 Turtle-a-Thon Winners 🥇
+  <a href="https://github.com/codeMacrocosm/Turtle-a-Thon-23/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=codeMacrocosm/Turtle-a-Thon-23" />
+  </a>
 
 
 
