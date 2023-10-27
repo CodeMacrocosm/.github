@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 
@@ -12,7 +12,7 @@
 -->
 
 
-
+![banner](https://github.com/CodeMacrocosm/.github/blob/main/profile/cm%20banner%20gif.gif)
 
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
 
