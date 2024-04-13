@@ -40,7 +40,7 @@
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 ---
-### ⭐️ Tech Impact Metrics
+### ⭐️ TECH IMPACT METRICS
 
 - **50+** Novice Tech Projects Engineered 🛠️,
 
@@ -61,9 +61,9 @@
 
 
 
-# 🏆 HALL OF FAME : 
+###  🏆 HALL OF FAME : 
 
-  ## Contest 1: 🥇 Write-a-Thon Winners 🥇
+  ###  Contest 1: 🥇 Write-a-Thon Winners 🥇
 
   <a href="https://github.com/codeMacrocosm/Write-a-Thon-20/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Write-a-Thon-20" />
@@ -74,61 +74,61 @@
 
 ---
 
-  ## Contest 2: 🥇 Start-a-Thon Winners 🥇
+  ###  Contest 2: 🥇 Start-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Start-a-Thon-20/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Start-a-Thon-20" />
   </a>
 
 
 
-  ## Contest 3: 🥇 Design-a-Thon Winners 🥇
+  ### Contest 3: 🥇 Design-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Design-a-Thon-20/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Design-a-Thon-20" />
   </a>
 
-  ## Contest 4: 🥇 Web-a-Thon Winners 🥇
+  ###  Contest 4: 🥇 Web-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Web-a-Thon-20/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Web-a-Thon-20" />
   </a>
 
 
 
-  ## Contest 5: 🥇 Pull-a-Thon Winners 🥇
+  ###  Contest 5: 🥇 Pull-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Pull-a-Thon-21/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Pull-a-Thon-21" />
   </a>
 
-  ## Contest 6: 🥇 Dev-a-Thon Winners 🥇
+  ###  Contest 6: 🥇 Dev-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Dev-a-Thon-21/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Dev-a-Thon-21" />
   </a>
 
-  ## Contest 7: 🥇 Snip-a-Thon Winners 🥇
+  ###  Contest 7: 🥇 Snip-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Snip-a-Thon-21/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Snip-a-Thon-21" />
   </a>
 
-  ## Contest 8: 🥇 Pattern-a-Thon Winners 🥇
+  ###  Contest 8: 🥇 Pattern-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Pattern-a-Thon-22/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Pattern-a-Thon-22" />
   </a>
 
-  ## Contest 9: 🥇 Write-a-Thon Winners 🥇
+  ###  Contest 9: 🥇 Write-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Vocab-a-Thon-22/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Vocab-a-Thon-22" />
   </a>
 
-  ## Contest 10: 🥇 Algo-a-Thon Winners 🥇
+  ###  Contest 10: 🥇 Algo-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Algo-a-Thon-22/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Algo-a-Thon-22" />
   </a>
 
-  ## Contest 11: 🥇 Profile-a-Thon Winners 🥇
+  ###  Contest 11: 🥇 Profile-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Profile-a-Thon-22/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Profile-a-Thon-22" />
   </a>
 
-  ## Contest 12: 🥇 Turtle-a-Thon Winners 🥇
+  ###  Contest 12: 🥇 Turtle-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Turtle-a-Thon-23/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Turtle-a-Thon-23" />
   </a>
@@ -150,12 +150,69 @@ Our mentors possess diverse expertise and are proficient in teaching a wide arra
 
 ---
 
-### Project-Based Learning (25+)✨
+# ⚙️🧠 CodeMacrocosm's Hands-On Learning Nexus
+
+### 1) Contest-Based Learning (12+) 🏆
+
+Experience learning through engaging open-source contests and challenges.
+
+<details>
+  <summary><strong>View Contests </strong></summary>
+
+- **Contest 1: [🏆 Write-a-Thon-20](https://github.com/CodeMacrocosm/Write-a-Thon-20)**
+  - 🌟 Unleash the Creative Power of Magic Words
+  - Stars: 11, Forks: 3, Contributors: 10
+
+- **Contest 2: [🌟 Start-a-Thon-20](https://github.com/CodeMacrocosm/Start-a-Thon-20)**
+  - 🌟 The Hello World Spectacular Extravaganza
+  - Stars: 11, Forks: 6, Contributors: 32
+
+- **Contest 3: [💻 Design-a-Thon-20](https://github.com/CodeMacrocosm/Design-a-Thon-20)**
+  - 🌟 Storyteller's Canvas - Design Your Narrative
+  - Stars: 12, Forks: 10, Contributors: 9
+
+- **Contest 4: [🌐 Web-a-Thon-20](https://github.com/CodeMacrocosm/Web-a-Thon-20)**
+  - 🌟 Ultimate Web Development Showdown!
+  - Stars: 38, Forks: 127, Contributors: 120
+
+- **Contest 5: [🚀 Pull-a-Thon-21](https://github.com/CodeMacrocosm/Pull-a-Thon-21)**
+  - 🌟 Entry Point to Open Source Collaboration!
+  - Stars: 25, Forks: 117, Contributors: 135
+
+- **Contest 6: [✂️ Dev-a-Thon-21](https://github.com/CodeMacrocosm/Dev-a-Thon-21)**
+  - 🌟 Your Gateway to Express Your Dev Journey!
+  - Stars: 10, Forks: 30, Contributors: 31
+
+- **Contest 7: [🌟 Snip-a-Thon-21](https://github.com/CodeMacrocosm/Snip-a-Thon-21)**
+  - 🌟 Code Brilliance, One Snippet at a Time!
+  - Stars: 11, Forks: 32, Contributors: 28
+
+- **Contest 8: [📖 Vocab-a-Thon-22](https://github.com/CodeMacrocosm/Vocab-a-Thon-22)**
+  - 🌟 Your Passport to Word Wonderland!
+  - Stars: 26, Forks: 31, Contributors: 33
+
+- **Contest 9: [💻 Pattern-a-Thon-22](https://github.com/CodeMacrocosm/Pattern-a-Thon-22)**
+  - 🌟 Artistic Expressive Canvas in Code
+  - Stars: 27, Forks: 39, Contributors: 39
+
+- **Contest 10: [🌐 Algo-a-Thon-22](https://github.com/CodeMacrocosm/Algo-a-Thon-22)**
+  - 🌟 Ingeniously Crafting Algorithms Anew
+  - Stars: 35, Forks: 78, Contributors: 83
+
+- **Contest 11: [✨ Turtle-a-Thon-23](https://github.com/CodeMacrocosm/Turtle-a-Thon-23)**
+  - 🌟 Explore Turtle Graphics Bliss...
+  - Stars: 8, Forks: 8, Contributors: 8
+
+</details>
+
+---
+
+### 2) Project-Based Learning (25+)✨
 
 Learn through hands-on coding with our project-based learning approach.
 
 <details>
-  <summary><strong>Learning Paths Offered</strong></summary>
+  <summary><strong> View Projects </strong></summary>
 
 
 ### 🚀 Welcome to Our Coding Universe! 🌌
@@ -304,14 +361,14 @@ Ready to embark on an epic coding journey? Join us and let's code the future tog
 
 ---
 
-### Comprehensive Trainings (9+) 📚
+### 3) Training-Based Learning (9+) 📚
 
 🚀 Embark on Comprehensive Training Journeys & Access Abundant Resources 
 
 
 
 <details>
-  <summary><strong> Trainings Offered</strong></summary>
+  <summary><strong> View Trainings </strong></summary>
 
 - We empower global programmers with essential skills through meticulously crafted learning paths and comprehensive training.
 
