@@ -361,9 +361,9 @@ Ready to embark on an epic coding journey? Join us and let's code the future tog
 
 ---
 
-### 3) Training-Based Learning (9+) 📚
+### 3) Skill-Based Learning (9+) 📚
 
-🚀 Embark on Comprehensive Training Journeys & Access Abundant Resources 
+🚀 Embark on Comprehensive Technical Training Journeys & Access Abundant Resources 
 
 
 
