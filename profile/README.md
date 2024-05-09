@@ -69,10 +69,6 @@
     <img src="https://contrib.rocks/image?repo=codeMacrocosm/Write-a-Thon-20" />
   </a>
 
-  <details>
-  <summary><strong>Show All Winners </strong></summary>
-
----
 
   ###  Contest 2: 🥇 Start-a-Thon Winners 🥇
   <a href="https://github.com/codeMacrocosm/Start-a-Thon-20/graphs/contributors">
