@@ -40,15 +40,17 @@
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 ---
-### ⭐️ TECH IMPACT METRICS
+### ⭐️ TECH IMPACT METRICS (Codemacrocosm Open Source Org)
 
+- **15+** Students and Graduates Interned 🔊 ,
+- 
 - **50+** Novice Tech Projects Engineered 🛠️,
 
 - **500+** Global Developers Trained 👨‍💻,
+  
+- **540+** Github forks earned 🍴
 
 - **640+** Github stars earned ⭐️,
-
-- **540+** Github forks earned 🍴.
 
 - **3000+** Students Empowered 🚀.
 
