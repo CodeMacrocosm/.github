@@ -43,7 +43,7 @@
 ### ⭐️ TECH IMPACT METRICS (Codemacrocosm Open Source Org)
 
 - **15+** Students and Graduates Interned 🔊 ,
-- 
+
 - **50+** Novice Tech Projects Engineered 🛠️,
 
 - **500+** Global Developers Trained 👨‍💻,
