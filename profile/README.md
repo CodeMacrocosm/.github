@@ -46,11 +46,13 @@
 
 - **50+** Novice Tech Projects Engineered 🛠️,
 
-- **500+** Global Developers Trained 👨‍💻,
+- **500+** Global Developers Participated 👨‍💻,
   
 - **540+** Github forks earned 🍴
 
 - **640+** Github stars earned ⭐️,
+
+- **2500+** Students Trained 💻
 
 - **3000+** Students Empowered 🚀.
 
