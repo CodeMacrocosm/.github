@@ -414,6 +414,14 @@ Ready to embark on an epic coding journey? Join us and let's code the future tog
 9. **[🌐 45 days of Full Stack Web Development](https://github.com/CodeMacrocosm/WEBD-BOOK)**
    - Master full-stack web development from front-end to back-end.
    - **Stars:** 5 | **Forks:** 2
+  
+10. **[⚛️ 10 Days of python for kids](https://github.com/CodeMacrocosm/Python-Training)**
+   - 10 Days of python training for kids of age 7-12
+   - **Stars:** 3 | **Forks:** -
+
+11. **[📖 10 Days of Data Analysis](https://github.com/CodeMacrocosm/Data-Analytics-Training)**
+   - Master complete data analysis
+   - **Stars:** 3 | **Forks:** -
 
 Join us on an enriching learning adventure and unlock your full potential in the world of programming! 🚀📚
 
