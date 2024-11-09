@@ -164,49 +164,22 @@ Experience learning through engaging open-source contests and challenges.
 <details>
   <summary><strong>View Contests </strong></summary>
 
-- **Contest 1: [🏆 Write-a-Thon-20](https://github.com/CodeMacrocosm/Write-a-Thon-20)**
-  - 🌟 Unleash the Creative Power of Magic Words
-  - Stars: 11, Forks: 3, Contributors: 10
 
-- **Contest 2: [🌟 Start-a-Thon-20](https://github.com/CodeMacrocosm/Start-a-Thon-20)**
-  - 🌟 The Hello World Spectacular Extravaganza
-  - Stars: 11, Forks: 6, Contributors: 32
+| S.No | Name of Contest                                              | Stars | Forks | Contributors |
+|------|--------------------------------------------------------------|-------|-------|--------------|
+| 1    | 🏆 [Write-a-Thon](https://github.com/CodeMacrocosm/Write-a-Thon-20) | <a href="https://github.com/CodeMacrocosm/Write-a-Thon-20/stargazers"><img src="https://img.shields.io/github/stars/CodeMacrocosm/Write-a-Thon-20?style=flat-square" alt="GitHub stars"></a> | <a href="https://github.com/CodeMacrocosm/Write-a-Thon-20/network"><img src="https://img.shields.io/github/forks/CodeMacrocosm/Write-a-Thon-20?style=flat-square" alt="GitHub forks"></a> | <a href="https://github.com/codemacrocosm/Write-a-Thon-20/graphs/contributors"><img src="https://img.shields.io/github/contributors/codemacrocosm/Write-a-Thon-20.svg" alt="GitHub contributors"></a> |
+| 2    | 🌟 [Start-a-Thon](https://github.com/CodeMacrocosm/Start-a-Thon-20) | <a href="https://github.com/CodeMacrocosm/Start-a-Thon-20/stargazers"><img src="https://img.shields.io/github/stars/CodeMacrocosm/Start-a-Thon-20?style=flat-square" alt="GitHub stars"></a> | <a href="https://github.com/CodeMacrocosm/Start-a-Thon-20/network"><img src="https://img.shields.io/github/forks/CodeMacrocosm/Start-a-Thon-20?style=flat-square" alt="GitHub forks"></a> | <a href="https://github.com/codemacrocosm/Start-a-Thon-20/graphs/contributors"><img src="https://img.shields.io/github/contributors/codemacrocosm/Start-a-Thon-20.svg" alt="GitHub contributors"></a> |
+| 3    | 💻 [Design-a-Thon](https://github.com/CodeMacrocosm/Design-a-Thon-20) | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/Design-a-Thon?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/srujana-55/Storybook?style=flat-square) | ![GitHub contributors](https://img.shields.io/github/contributors/codeMacrocosm/Design-a-Thon-20.svg) |
+| 4    | 🌐 [Web-a-Thon](https://github.com/CodeMacrocosm/Web-a-Thon-20)     | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/Web-a-Thon?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/Web-a-Thon?style=flat-square) | ![GitHub contributors](https://img.shields.io/github/contributors/codemacrocosm/Web-a-Thon-20.svg) |
+| 5    | 🚀 [Pull-a-Thon](https://github.com/CodeMacrocosm/Pull-a-Thon-21)   | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/Pull-a-Thon?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/Pull-a-Thon?style=flat-square) | ![GitHub contributors](https://img.shields.io/github/contributors/codemacrocosm/Pull-a-Thon.svg) |
+| 6    | ✂️ [Dev-a-Thon](https://github.com/CodeMacrocosm/Dev-a-Thon-21)     | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/Dev-a-Thon?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/Dev-a-Thon?style=flat-square) | ![GitHub contributors](https://img.shields.io/github/contributors/codemacrocosm/Dev-a-Thon.svg) |
+| 7    | 🌟 [Snip-a-Thon](https://github.com/CodeMacrocosm/Snip-a-Thon-21)   | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/Snip-a-Thon-21?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/Snip-a-Thon-21?style=flat-square) | ![GitHub contributors](https://img.shields.io/github/contributors/codemacrocosm/Snip-a-Thon-21.svg) |
+| 8    | 📖 [Vocab-a-Thon](https://github.com/CodeMacrocosm/Vocab-a-Thon-22) | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/Vocab-a-Thon-22?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/Vocab-a-Thon-22?style=flat-square) | ![GitHub contributors](https://img.shields.io/github/contributors/codemacrocosm/Vocab-a-Thon-22.svg) |
+| 9    | 💻 [Pattern-a-Thon](https://github.com/CodeMacrocosm/Pattern-a-Thon-22) | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/Pattern-a-Thon?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/Pattern-a-Thon?style=flat-square) | ![GitHub contributors](https://img.shields.io/github/contributors/codemacrocosm/Pattern-a-Thon.svg) |
+| 10   | 🚀 [Algo-a-Thon](https://github.com/CodeMacrocosm/Algo-a-Thon-22)     | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/Algo-a-Thon-22?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/Algo-a-Thon-22?style=flat-square) | ![GitHub contributors](https://img.shields.io/github/contributors/codemacrocosm/Algo-a-Thon-22.svg) |
+| 11   | 🚀 [Turtle-a-Thon](https://github.com/CodeMacrocosm/Turtle-a-Thon-23) | ![GitHub stars](https://img.shields.io/github/stars/codemacrocosm/Turtle-a-Thon?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/Turtle-a-Thon?style=flat-square) | ![GitHub contributors](https://img.shields.io/github/contributors/codemacrocosm/Turtle-a-Thon.svg) |
 
-- **Contest 3: [💻 Design-a-Thon-20](https://github.com/CodeMacrocosm/Design-a-Thon-20)**
-  - 🌟 Storyteller's Canvas - Design Your Narrative
-  - Stars: 12, Forks: 10, Contributors: 9
 
-- **Contest 4: [🌐 Web-a-Thon-20](https://github.com/CodeMacrocosm/Web-a-Thon-20)**
-  - 🌟 Ultimate Web Development Showdown!
-  - Stars: 38, Forks: 127, Contributors: 120
-
-- **Contest 5: [🚀 Pull-a-Thon-21](https://github.com/CodeMacrocosm/Pull-a-Thon-21)**
-  - 🌟 Entry Point to Open Source Collaboration!
-  - Stars: 25, Forks: 117, Contributors: 135
-
-- **Contest 6: [✂️ Dev-a-Thon-21](https://github.com/CodeMacrocosm/Dev-a-Thon-21)**
-  - 🌟 Your Gateway to Express Your Dev Journey!
-  - Stars: 10, Forks: 30, Contributors: 31
-
-- **Contest 7: [🌟 Snip-a-Thon-21](https://github.com/CodeMacrocosm/Snip-a-Thon-21)**
-  - 🌟 Code Brilliance, One Snippet at a Time!
-  - Stars: 11, Forks: 32, Contributors: 28
-
-- **Contest 8: [📖 Vocab-a-Thon-22](https://github.com/CodeMacrocosm/Vocab-a-Thon-22)**
-  - 🌟 Your Passport to Word Wonderland!
-  - Stars: 26, Forks: 31, Contributors: 33
-
-- **Contest 9: [💻 Pattern-a-Thon-22](https://github.com/CodeMacrocosm/Pattern-a-Thon-22)**
-  - 🌟 Artistic Expressive Canvas in Code
-  - Stars: 27, Forks: 39, Contributors: 39
-
-- **Contest 10: [🌐 Algo-a-Thon-22](https://github.com/CodeMacrocosm/Algo-a-Thon-22)**
-  - 🌟 Ingeniously Crafting Algorithms Anew
-  - Stars: 35, Forks: 78, Contributors: 83
-
-- **Contest 11: [✨ Turtle-a-Thon-23](https://github.com/CodeMacrocosm/Turtle-a-Thon-23)**
-  - 🌟 Explore Turtle Graphics Bliss...
-  - Stars: 8, Forks: 8, Contributors: 8
 
 </details>
 
