@@ -203,135 +203,29 @@ Ready to embark on an epic coding journey? Join us and let's code the future tog
 
 ### Here are the Projects Led by Our Technical Director during Masterclass sessions for various batches
 
-1. **[Pandemic Alert](https://github.com/CodeMacrocosm/Pandemic-Alert)**
-   - **🎯 Learning Outcome:** Create a real-time pandemic alert system.
-   - **💻 Tech Stack:** Python
-   - **⭐ Stats:** 13 Stars, 1 Fork
 
-2. **[Text-to-Speech (TTS)](https://github.com/CodeMacrocosm/TTS)**
-   - **🔊 Learning Outcome:** Convert text into speech.
-   - **💻 Tech Stack:** Python
-   - **⭐ Stats:** 13 Stars, 1 Fork
+   
+  | **Project Link** | **Learning Outcome** | **Tech Stack** | **Stars** |
+|------------------|----------------------|----------------|------------|
+| [Pandemic Alert](https://github.com/shreyamalogi/pandemic-alert) | Create a real-time pandemic alert system. | Python | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/pandemic-alert.svg?style=social)](https://github.com/shreyamalogi/pandemic-alert/stargazers) |
+| [Text-to-Speech (TTS)](https://github.com/shreyamalogi/TTS) | Convert text into speech. | Python | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/TTS.svg?style=social)](https://github.com/shreyamalogi/TTS/stargazers) |
+| [Bio Data](https://github.com/shreyamalogi/Bio-Data) | Create and manage biodata. | HTML | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/Bio-Data.svg?style=social)](https://github.com/shreyamalogi/Bio-Data/stargazers) |
+| [Teal Minimal Portfolio](https://github.com/shreyamalogi/Teal-Minimal-Portfolio) | Design a minimalistic portfolio. | HTML, CSS | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/Teal-Minimal-Portfolio.svg?style=social)](https://github.com/shreyamalogi/Teal-Minimal-Portfolio/stargazers) |
+| [Tinder for Dogs](https://github.com/shreyamalogi/tindog) | Develop a dog matching app. | HTML, CSS, Bootstrap | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/tindog.svg?style=social)](https://github.com/shreyamalogi/tindog/stargazers) |
+| [Polka Dot](https://github.com/shreyamalogi/the_hirst_painting) | Create polka dot patterns. | Turtle GUI (Python) | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/the_hirst_painting.svg?style=social)](https://github.com/shreyamalogi/the_hirst_painting/stargazers) |
+| [Spirograph](https://github.com/shreyamalogi/spirograph) | Create intricate spirograph patterns. | Turtle GUI (Python) | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/spirograph.svg?style=social)](https://github.com/shreyamalogi/spirograph/stargazers) |
+| [Doraemon](https://github.com/shreyamalogi/doraemon) | Draw the character Doraemon. | Turtle GUI (Python) | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/doraemon.svg?style=social)](https://github.com/shreyamalogi/doraemon/stargazers) |
+| [Among Us Tribute](https://github.com/shreyamalogi/among-us) | Create a tribute to the game Among Us. | Turtle GUI (Python) | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/among-us.svg?style=social)](https://github.com/shreyamalogi/among-us/stargazers) |
+| [Drums Kit](https://github.com/shreyamalogi/drums-app) | Create an interactive drums kit. | HTML, CSS, JavaScript | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/drums-app.svg?style=social)](https://github.com/shreyamalogi/drums-app/stargazers) |
+| [Dice Game](https://github.com/shreyamalogi/Dice-game) | Implement a simple dice game. | HTML, CSS, JavaScript | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/Dice-game.svg?style=social)](https://github.com/shreyamalogi/Dice-game/stargazers) |
+| [Kanye Quotes Generator](https://github.com/shreyamalogi/kanye-quotes-generator) | Generate random Kanye West quotes using an API. | JavaScript (API) | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/kanye-quotes-generator.svg?style=social)](https://github.com/shreyamalogi/kanye-quotes-generator/stargazers) |
+| [Real-time ISS Tracker](https://github.com/shreyamalogi/Real-time-ISS-Tracker) | Track the International Space Station in real-time. | Python, Tkinter | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/Real-time-ISS-Tracker.svg?style=social)](https://github.com/shreyamalogi/Real-time-ISS-Tracker/stargazers) |
+| [Miles to Kilometers Converter](https://github.com/shreyamalogi/miles-to-km-converter) | Build a converter for miles to kilometers. | Tkinter (Python) | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/miles-to-km-converter.svg?style=social)](https://github.com/shreyamalogi/miles-to-km-converter/stargazers) |
+| [I Am Rich App](https://github.com/shreyamalogi/rich-app) | Create a simple "I Am Rich" app. | Flutter | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/rich-app.svg?style=social)](https://github.com/shreyamalogi/rich-app/stargazers) |
+| [BizCard App](https://github.com/shreyamalogi/bizcard-app) | Create a business card app. | Flutter | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/bizcard-app.svg?style=social)](https://github.com/shreyamalogi/bizcard-app/stargazers) |
+| [URL Shortener](https://github.com/shreyamalogi/URL-shortener) | Create a URL shortener service. | Not available | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/URL-shortener.svg?style=social)](https://github.com/shreyamalogi/URL-shortener/stargazers) |
+| [Coffee Machine](https://github.com/shreyamalogi/Coffee-Machine) | Simulate a coffee machine. | Not available | [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/Coffee-Machine.svg?style=social)](https://github.com/shreyamalogi/Coffee-Machine/stargazers) |
 
-3. **[Bio Data](https://github.com/CodeMacrocosm/Bio-Data)**
-   - **📝 Learning Outcome:** Create and manage biodata.
-   - **💻 Tech Stack:** HTML
-   - **⭐ Stats:** 12 Stars, 2 Forks
-
-4. **[Teal Minimal Portfolio](https://github.com/CodeMacrocosm/Teal-Minimal-Portfolio)**
-   - **🎨 Learning Outcome:** Design a minimalistic portfolio.
-   - **💻 Tech Stack:** HTML, CSS
-   - **⭐ Stats:** 13 Stars, 2 Forks
-
-5. **[Tinder for Dogs](https://github.com/CodeMacrocosm/tindog)**
-   - **🐶 Learning Outcome:** Develop a dog matching app.
-   - **💻 Tech Stack:** HTML, CSS, Bootstrap
-   - **⭐ Stats:** 12 Stars, 1 Fork
-
-6. **[Polka Dot](https://github.com/CodeMacrocosm/the_hirst_painting)**
-   - **🔵 Learning Outcome:** Create polka dot patterns.
-   - **💻 Tech Stack:** Turtle GUI (Python)
-   - **⭐ Stats:** 14 Stars, 2 Forks
-
-7. **[Spirograph](https://github.com/CodeMacrocosm/spirograph)**
-   - **🌀 Learning Outcome:** Create intricate spirograph patterns.
-   - **💻 Tech Stack:** Turtle GUI (Python)
-   - **⭐ Stats:** 17 Stars, 3 Forks
-
-8. **[Doraemon](https://github.com/CodeMacrocosm/doraemon)**
-   - **🤖 Learning Outcome:** Draw the character Doraemon.
-   - **💻 Tech Stack:** Turtle GUI (Python)
-   - **⭐ Stats:** 14 Stars, 3 Forks
-
-9. **[Among Us Tribute](https://github.com/CodeMacrocosm/among-us)**
-   - **👾 Learning Outcome:** Create a tribute to the game Among Us.
-   - **💻 Tech Stack:** Turtle GUI (Python)
-   - **⭐ Stats:** 11 Stars, 1 Fork
-
-10. **[Drums Kit](https://github.com/CodeMacrocosm/drums-app)**
-    - **🥁 Learning Outcome:** Create an interactive drums kit.
-    - **💻 Tech Stack:** HTML, CSS, JavaScript
-    - **⭐ Stats:** 14 Stars, 1 Fork
-
-11. **[Dice Game](https://github.com/CodeMacrocosm/Dice-game)**
-    - **🎲 Learning Outcome:** Implement a simple dice game.
-    - **💻 Tech Stack:** HTML, CSS, JavaScript
-    - **⭐ Stats:** 13 Stars, 1 Fork
-
-12. **[Favicon Fetcher](https://github.com/CodeMacrocosm/favicon-fetcher)**
-    - **🌐 Learning Outcome:** Fetch favicons from websites.
-    - **💻 Tech Stack:** HTML, CSS, JavaScript
-    - **⭐ Stats:** 10 Stars, 1 Fork
-
-13. **[Kanye Quotes Generator](https://github.com/CodeMacrocosm/kanye-quotes-generator)**
-    - **🎤 Learning Outcome:** Generate random Kanye West quotes using an API.
-    - **💻 Tech Stack:** JavaScript (API)
-    - **⭐ Stats:** 12 Stars, 1 Fork
-
-14. **[Real-time ISS Tracker](https://github.com/CodeMacrocosm/Real-time-ISS-Tracker)**
-    - **🌍 Learning Outcome:** Track the International Space Station in real-time.
-    - **💻 Tech Stack:** Python, Tkinter
-    - **⭐ Stats:** 12 Stars, 1 Fork
-
-15. **[Flask API Integration](https://github.com/CodeMacrocosm/Flask-API-Integration)**
-    - **🚀 Learning Outcome:** Integrate APIs into Flask applications.
-    - **💻 Tech Stack:** Python, Flask
-    - **⭐ Stats:** 10 Stars, 1 Fork
-
-16. **[Miles to Kilometers Converter](https://github.com/CodeMacrocosm/miles-to-km-converter)**
-    - **➡️🚶 Learning Outcome:** Build a converter for miles to kilometers.
-    - **💻 Tech Stack:** Tkinter (Python)
-    - **⭐ Stats:** 13 Stars, 1 Fork
-
-17. **[I Am Rich App](https://github.com/CodeMacrocosm/rich-app)**
-    - **💰 Learning Outcome:** Create a simple "I Am Rich" app.
-    - **💻 Tech Stack:** Flutter
-    - **⭐ Stats:** 13 Stars, 1 Fork
-
-18. **[BizCard App](https://github.com/CodeMacrocosm/bizcard-app)**
-    - **📇 Learning Outcome:** Create a business card app.
-    - **💻 Tech Stack:** Flutter
-    - **⭐ Stats:** 13 Stars, 1 Fork
-
-19. **[Responsive Side Panel](https://github.com/CodeMacrocosm/Responsive-Side-Panel)**
-    - **💻 Learning Outcome:** Create a responsive side panel for websites.
-    - **💻 Tech Stack:** HTML, CSS, JavaScript
-    - **⭐ Stats:** Not available
-
-20. **[Automated Personalized Email](https://github.com/CodeMacrocosm/Automated-personalized-Email)**
-    - **✉️ Learning Outcome:** Automate personalized email sending using Python and SMTP.
-    - **💻 Tech Stack:** Python, SMTP
-    - **⭐ Stats:** 13 Stars
-
-21. **[Birthday Wisher App](https://github.com/CodeMacrocosm/BGC-app)**
-    - **🎈 Learning Outcome:** Create an app for automating birthday wishes.
-    - **💻 Tech Stack:** Not available
-    - **⭐ Stats:** 14 Stars
-
-22. **[The Pomodoro](https://github.com/CodeMacrocosm/the-pomodoro)**
-    - **⏰ Learning Outcome:** Implement the Pomodoro Technique in a web app.
-    - **💻 Tech Stack:** Not available
-    - **⭐ Stats:** 12 Stars
-
-23. **[MP4 to GIF Converter](https://github.com/CodeMacrocosm/mp4-to-gif)**
-    - **🎞️ Learning Outcome:** Convert MP4 videos to GIFs.
-    - **💻 Tech Stack:** Not available
-    - **⭐ Stats:** 13 Stars, 2 Forks
-
-24. **[URL Shortener](https://github.com/CodeMacrocosm/URL-shortener)**
-    - **🔗 Learning Outcome:** Create a URL shortener service.
-    - **💻 Tech Stack:** Not available
-    - **⭐ Stats:** 13 Stars
-
-25. **[Indian Flag](https://github.com/CodeMacrocosm/Indian_flag)**
-    - **🇮🇳 Learning Outcome:** Create the Indian flag using code.
-    - **💻 Tech Stack:** Not available
-    - **⭐ Stats:** 13 Stars
-
-26. **[Coffee Machine](https://github.com/CodeMacrocosm/Coffee-Machine)**
-    - **☕ Learning Outcome:** Simulate a coffee machine.
-    - **💻 Tech Stack:** Not available
-    - **⭐ Stats:** 13 Stars
 
 </details>
 
