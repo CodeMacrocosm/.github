@@ -48,7 +48,7 @@
 | 🛠️ Novice Tech Projects Engineered                 | **50+**                         |
 | 🌍 Global Developers Collaborated                  | **500+**                        |
 | 🍴 GitHub Forks Achieved                           | **540+**                        |
-| ⭐️ GitHub Stars Earned                             | **640+**                        |
+| ⭐️ GitHub Stars Earned                             | **520+**                        |
 | 💻 Students Trained & Up-skilled                   | **2500+**                       |
 | 🚀 Students Empowered to Reach New Heights         | **3000+**                       |
 
